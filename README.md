@@ -3,12 +3,8 @@ Installation guide for QAI
 
 ## Step 1 – Install Required Packages
 
+sudo add-apt-repository universe
 sudo apt update
-sudo apt install -y git build-essential libsdl1.2-dev libsdl2-dev libpulse-dev \
-libx11-dev libxext-dev libxfixes-dev libxrender-dev libxt-dev libxi-dev \
-libxrandr-dev libxinerama-dev libxss-dev libxcursor-dev libgl1-mesa-dev \
-libglu1-mesa-dev libegl-dev libgles-dev libxcb1-dev libxdmcp-dev libxv-dev \
-libibus-1.0-dev
 
 ## Step 2 – Clone the OAI Repository
 
